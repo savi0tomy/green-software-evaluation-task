@@ -14,13 +14,13 @@ The goal of this project is to classify MRI images into 4 categories:
 
 -pituitary
 
-***Models Used**
+**Models Used**
 
 -ResNet-18
 
 -EfficientNet-B0
 
-***Energy Profiling Tool Used:Codecarbon**
+**Energy Profiling Tool Used:Codecarbon**
 
 https://codecarbon.io/
 
