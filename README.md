@@ -1,4 +1,4 @@
-**MRI CLASSIFICATION WITH RESNET AND EFFICIENTNET**
+**BRAIN TUMOR CLASSIFICATION FROM MRI IMAGES USING RESNET AND EFFICIENTNET**
 
 This project analyzes the energy consumption and performance of two pre-trained models (ResNet-18 and EfficientNet-B0) on an MRI brain tumor classification task.
 
@@ -33,9 +33,10 @@ MRI Brain Tumor dataset (downloaded via Kaggle)
 https://www.kaggle.com/api/v1/datasets/download/masoudnickparvar/brain-tumor-mri-dataset?dataset_version_number=1
 
 **How to run the code**
-1. clone the repository
-2. setup the environment. Ensure that python and required packages are installed
-3. Run the notebook
+1. clone this repository or download the notebooks
+2. setup the environment- Ensure that the required packages are installed
+3. Open the notebook in Google Colab
+4. Run each cell sequentially
 
 **Results**
 
